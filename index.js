@@ -19,4 +19,3 @@ if (message) {
 	document.querySelector('#message-show').classList.remove('hide');
 	document.querySelector('h1').innerHTML = message;
 }
-console.log(message);
